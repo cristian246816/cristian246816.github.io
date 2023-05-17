@@ -26,3 +26,10 @@ body {
   height: 300px;
   width: 400px;
 }
+
+#section_experiencia .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
