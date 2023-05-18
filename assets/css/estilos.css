@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+.foto_perfil {
+  margin-right: 20%;
+}
+
 /* Sección Educación */
 
 .row {
