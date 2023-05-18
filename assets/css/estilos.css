@@ -27,7 +27,24 @@ body {
   width: 400px;
 }
 
+/* Sección Experiencia */
+
 #section_experiencia .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Sección Portafolio */
+
+#section_portafolio .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imagen_proyecto4 {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
